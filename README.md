@@ -1,5 +1,5 @@
 # Job-Title-Data-Scientist
-Neste repositório estou dsponibilizando o dataset e os notebooks utilizados no texto "Job Tittle: Data Scientist".
+Neste repositório estou disponibilizando o dataset e os notebooks utilizados no texto "Job Tittle: Data Scientist".
 
 Alguns pontos importantes devem ser mencionados:
 
@@ -9,4 +9,7 @@ Alguns pontos importantes devem ser mencionados:
 
 
 Thomas Ryu
+
 <thomas.ryu@uol.com.br>
+
+<https://www.linkedin.com/in/thomas-ryu-oliveira-takahashi-88455a75/>
