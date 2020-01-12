@@ -3,9 +3,11 @@ Neste repositório estou disponibilizando o dataset e os notebooks utilizados no
 
 Sobre os Arquivos:
 
-Data_science_linkedin_PORT - Dataset
-Job Title.ipynb - Primeiros tratamentos do dataset
-Tokenize.R - Tokenização do dataset e tratamentos finais
+-> Data_science_linkedin_PORT - Dataset
+
+-> Job Title.ipynb - Primeiros tratamentos do dataset
+
+-> Tokenize.R - Tokenização do dataset e tratamentos finais
 
 Alguns pontos importantes devem ser mencionados:
 
